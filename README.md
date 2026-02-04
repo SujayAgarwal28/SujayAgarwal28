@@ -1,9 +1,4 @@
-<!--
-Easter Egg - A legendary voice:
-"To be a better driver, I need to be a better person."
-– Lewis Hamilton
-Think about it. Success isn't just about the machine. It's about the mind. ⚡
--->
+
 
 <!-- Header Section with Mercedes AMG Petronas Theme -->
 <div align="center">
@@ -50,12 +45,12 @@ Think about it. Success isn't just about the machine. It's about the mind. ⚡
   
   <div style="margin: 20px 0;">
     <p style="color: #C0C0C0; font-weight: 600; margin: 15px 0 10px; letter-spacing: 1px;">LANGUAGES</p>
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,sql,r&theme=dark" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,javascript,typescript&theme=light" alt="Languages" />
   </div>
   
   <div style="margin: 30px 0;">
     <p style="color: #C0C0C0; font-weight: 600; margin: 15px 0 10px; letter-spacing: 1px;">FRAMEWORKS & TOOLS</p>
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgresql,docker,git,linux&theme=dark" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgresql,docker,git,linux&theme=light" alt="Tools" />
   </div>
   
   <br/>
@@ -157,6 +152,9 @@ Think about it. Success isn't just about the machine. It's about the mind. ⚡
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=27F4B0&section=footer" />
 </div>
 
+<!--
+"I'm working on a masterpiece and it isn't finished yet" LH44
+-->
 <div align="center" style="margin-top: 20px;">
   <p style="color: #666666; font-size: 12px;">© 2026 Sujay Agarwal</p>
 </div>
