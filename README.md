@@ -5,170 +5,201 @@ Easter Egg - A legendary voice:
 Think about it. Success isn't just about the machine. It's about the mind. ⚡
 -->
 
-<!-- Header Section with Subtle F1 Vibe -->
+<style>
+  @keyframes glow {
+    0%, 100% { box-shadow: 0 0 5px #27F4B0; }
+    50% { box-shadow: 0 0 20px #27F4B0; }
+  }
+  @keyframes float {
+    0%, 100% { transform: translateY(0px); }
+    50% { transform: translateY(-10px); }
+  }
+</style>
+
+<!-- Header Section with Mercedes AMG Petronas Theme -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00d4ff&section=header&text=Hi%20there&fontSize=60&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=27F4B0&section=header&text=Hi%20there&fontSize=70&fontColor=FFFFFF&fontAlignY=40&animation=toss&rotate=-5" />
 </div>
 
-<div align="center">
-  <h1 style="color: #00d4ff; margin: 20px 0; font-weight: 700;">I'm <span style="color: #FFFFFF;">Sujay</span></h1>
-  <p style="font-size: 16px; color: #8f9499; margin: 10px 0;">
+<div align="center" style="margin: 30px 0;">
+  <h1 style="color: #27F4B0; margin: 20px 0; font-weight: 900; font-size: 50px; letter-spacing: 2px;">
+    I'm <span style="color: #FFFFFF; text-shadow: 0 0 20px rgba(39, 244, 176, 0.3);">Sujay</span>
+  </h1>
+  <p style="font-size: 18px; color: #C0C0C0; margin: 15px 0; font-weight: 500;">
     Full Stack Developer | Software Engineer | Data Enthusiast
   </p>
-  <p style="font-size: 14px; color: #666666; margin: 5px 0;">
+  <p style="font-size: 14px; color: #888888; margin: 5px 0; letter-spacing: 1px;">
     Building scalable solutions with attention to detail and performance.
   </p>
   
   <!-- Social Links -->
-  <div style="margin: 20px 0;">
-    <a href="https://www.linkedin.com/in/sujay-agarwal28/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0e27" alt="LinkedIn" />
+  <div style="margin: 25px 0;">
+    <a href="https://www.linkedin.com/in/sujay-agarwal28/" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" alt="LinkedIn" style="border-radius: 25px;" />
     </a>
   </div>
 </div>
 
----
-
-<!-- Stats Section -->
 <div align="center">
-  <h2 style="color: #00d4ff; margin: 30px 0;">📊 Performance Metrics</h2>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
+
+<!-- Performance Metrics Section with Animated Cards -->
+<div align="center">
+  <h2 style="color: #27F4B0; margin: 40px 0 30px; font-size: 32px; font-weight: 700; letter-spacing: 1px;">Performance Metrics</h2>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=SujayAgarwal28&show_icons=true&theme=dark&bg_color=0a0e27&text_color=FFFFFF&title_color=00d4ff&icon_color=00d4ff&border_color=00d4ff&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <div style="display: inline-block; border: 3px solid #27F4B0; border-radius: 15px; padding: 30px; background: linear-gradient(135deg, rgba(39, 244, 176, 0.1) 0%, rgba(39, 244, 176, 0.02) 100%); margin: 20px auto; box-shadow: 0 8px 32px rgba(39, 244, 176, 0.15);">
+    <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 40px; min-width: 450px;">
+      <div style="text-align: center; padding: 20px;">
+        <p style="color: #27F4B0; font-size: 36px; font-weight: 900; margin: 0;">30+</p>
+        <p style="color: #C0C0C0; font-size: 14px; margin: 10px 0 0; font-weight: 500; letter-spacing: 1px;">PROJECTS</p>
+      </div>
+      <div style="text-align: center; padding: 20px; border-left: 2px solid #27F4B0; border-right: 2px solid #27F4B0;">
+        <p style="color: #27F4B0; font-size: 36px; font-weight: 900; margin: 0;">500+</p>
+        <p style="color: #C0C0C0; font-size: 14px; margin: 10px 0 0; font-weight: 500; letter-spacing: 1px;">COMMITS</p>
+      </div>
+      <div style="text-align: center; padding: 20px;">
+        <p style="color: #27F4B0; font-size: 36px; font-weight: 900; margin: 0;">100%</p>
+        <p style="color: #C0C0C0; font-size: 14px; margin: 10px 0 0; font-weight: 500; letter-spacing: 1px;">COMMITMENT</p>
+      </div>
+    </div>
+  </div>
 </div>
 
 <br />
 
-<!-- GitHub Trophies -->
+<!-- Achievements Section -->
 <div align="center">
-  <h2 style="color: #00d4ff; margin: 30px 0;">🏆 Achievements</h2>
+  <h2 style="color: #27F4B0; margin: 40px 0 30px; font-size: 32px; font-weight: 700; letter-spacing: 1px;">Achievements</h2>
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=SujayAgarwal28&theme=dark&column=3&margin-w=15&margin-h=15&no-frame=false&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 <br />
 
-<!-- Programming Languages -->
 <div align="center">
-  <h2 style="color: #00d4ff; margin: 30px 0;">Programming Languages</h2>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
+
+<!-- Tech Stack Section -->
+<div align="center">
+  <h2 style="color: #27F4B0; margin: 40px 0 30px; font-size: 32px; font-weight: 700; letter-spacing: 1px;">Tech Stack</h2>
   
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,sql,r" alt="Languages" />
+  <div style="margin: 20px 0;">
+    <p style="color: #C0C0C0; font-weight: 600; margin: 15px 0 10px; letter-spacing: 1px;">LANGUAGES</p>
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,sql,r" alt="Languages" />
+  </div>
+  
+  <div style="margin: 30px 0;">
+    <p style="color: #C0C0C0; font-weight: 600; margin: 15px 0 10px; letter-spacing: 1px;">FRAMEWORKS & TOOLS</p>
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgresql,docker,git,linux" alt="Tools" />
+  </div>
 </div>
 
 <br />
 
-<!-- Technologies & Tools -->
+<!-- Statistics Table -->
 <div align="center">
-  <h2 style="color: #00d4ff; margin: 30px 0;">Technologies & Tools</h2>
+  <h2 style="color: #27F4B0; margin: 40px 0 30px; font-size: 32px; font-weight: 700; letter-spacing: 1px;">GitHub Statistics</h2>
   
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgresql,docker,git,linux" alt="Tools" />
-</div>
-
-<br />
-
-<!-- Cool Stats Section -->
-<div align="center">
-  <h2 style="color: #00d4ff; margin: 30px 0;">🏁 Quick Stats</h2>
-  
-  <table style="margin: 0 auto; border-collapse: collapse; border: 2px solid #00d4ff; border-radius: 10px;">
-    <tr style="background-color: #0a0e27; border-bottom: 2px solid #00d4ff;">
-      <td style="padding: 15px 25px; color: #00d4ff; font-weight: bold; text-align: center; border-right: 1px solid #00d4ff;">Repositories</td>
-      <td style="padding: 15px 25px; color: #FFFFFF; text-align: center; border-right: 1px solid #00d4ff;">
-        <img alt="GitHub Repos" src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/SujayAgarwal28&query=public_repos&label=&color=00d4ff&style=flat-square&labelColor=0a0e27&logo=github&logoColor=FFFFFF" />
-      </td>
-      <td style="padding: 15px 25px; color: #00d4ff; font-weight: bold; text-align: center; border-right: 1px solid #00d4ff;">Followers</td>
-      <td style="padding: 15px 25px; color: #FFFFFF; text-align: center; border-right: 1px solid #00d4ff;">
-        <img alt="GitHub Followers" src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/SujayAgarwal28&query=followers&label=&color=00d4ff&style=flat-square&labelColor=0a0e27&logo=github&logoColor=FFFFFF" />
-      </td>
-      <td style="padding: 15px 25px; color: #00d4ff; font-weight: bold; text-align: center;">Following</td>
-      <td style="padding: 15px 25px; color: #FFFFFF; text-align: center;">
-        <img alt="GitHub Following" src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/SujayAgarwal28&query=following&label=&color=00d4ff&style=flat-square&labelColor=0a0e27&logo=github&logoColor=FFFFFF" />
-      </td>
+  <table style="margin: 0 auto; border-collapse: collapse; border: 3px solid #27F4B0; border-radius: 10px; overflow: hidden; box-shadow: 0 8px 32px rgba(39, 244, 176, 0.15);">
+    <tr style="background: linear-gradient(90deg, rgba(39, 244, 176, 0.2) 0%, transparent 100%); border-bottom: 2px solid #27F4B0;">
+      <td style="padding: 18px 30px; color: #27F4B0; font-weight: 700; text-align: center; border-right: 2px solid #27F4B0; letter-spacing: 1px; font-size: 13px;">REPOSITORIES</td>
+      <td style="padding: 18px 30px; color: #FFFFFF; text-align: center; border-right: 2px solid #27F4B0; font-weight: 600; font-size: 18px;">30+</td>
+      <td style="padding: 18px 30px; color: #27F4B0; font-weight: 700; text-align: center; border-right: 2px solid #27F4B0; letter-spacing: 1px; font-size: 13px;">COMMITS</td>
+      <td style="padding: 18px 30px; color: #FFFFFF; text-align: center; border-right: 2px solid #27F4B0; font-weight: 600; font-size: 18px;">500+</td>
+      <td style="padding: 18px 30px; color: #27F4B0; font-weight: 700; text-align: center; border-right: 2px solid #27F4B0; letter-spacing: 1px; font-size: 13px;">LANGUAGES</td>
+      <td style="padding: 18px 30px; color: #FFFFFF; text-align: center; font-weight: 600; font-size: 18px;">7</td>
     </tr>
   </table>
 </div>
 
 <br />
 
-<!-- Contribution Graph -->
 <div align="center">
-  <h2 style="color: #00d4ff; margin: 30px 0;">📈 Contribution Track Record</h2>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+  <h2 style="color: #27F4B0; margin: 40px 0 30px; font-size: 32px; font-weight: 700; letter-spacing: 1px;">Contribution Activity</h2>
   
-  [![SujayAgarwal28's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SujayAgarwal28&theme=dark&bg_color=0a0e27&color=00d4ff&line=ffffff&point=00d4ff&area_color=ffffff&title_color=00d4ff&custom_title=Commitment%20to%20Excellence)](https://github.com/SujayAgarwal28)
+  [![SujayAgarwal28's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SujayAgarwal28&theme=dark&bg_color=1a1a1a&color=27F4B0&line=ffffff&point=27F4B0&area_color=27F4B0&title_color=27F4B0&custom_title=Commitment%20to%20Excellence)](https://github.com/SujayAgarwal28)
 </div>
 
 <br />
 
-<!-- GitHub Streak -->
+<!-- Streak Stats -->
 <div align="center">
-  <h2 style="color: #00d4ff; margin: 30px 0;">🔥 Streak Stats</h2>
+  <h2 style="color: #27F4B0; margin: 40px 0 30px; font-size: 32px; font-weight: 700; letter-spacing: 1px;">Contribution Streak</h2>
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=SujayAgarwal28&theme=dark&background=0a0e27&currStreakNum=00d4ff&fire=00d4ff&ring=00d4ff&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8f9499&border=00d4ff)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=SujayAgarwal28&theme=dark&background=1a1a1a&currStreakNum=27F4B0&fire=27F4B0&ring=27F4B0&sideNums=FFFFFF&sideLabels=C0C0C0&dates=888888&border=27F4B0)](https://git.io/streak-stats)
 </div>
 
 <br />
 
-<!-- Divider -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>
 
 <!-- Currently Working On -->
 <div align="center">
-  <h2 style="color: #00d4ff; margin: 30px 0;">Currently Working On</h2>
-  <p style="color: #8f9499; max-width: 600px; margin: 0 auto; line-height: 1.8;">
-    Building scalable full-stack applications<br/>
-    Exploring machine learning integration<br/>
-    Developing robust backend systems<br/>
-    Optimizing application performance<br/>
-  </p>
+  <h2 style="color: #27F4B0; margin: 40px 0 30px; font-size: 32px; font-weight: 700; letter-spacing: 1px;">Currently Working On</h2>
+  
+  <div style="display: inline-block; padding: 25px 40px; border-left: 4px solid #27F4B0; background-color: rgba(39, 244, 176, 0.05); border-radius: 5px;">
+    <p style="color: #C0C0C0; max-width: 600px; margin: 0; line-height: 2; text-align: left;">
+      Building scalable full-stack applications<br/>
+      Exploring machine learning integration<br/>
+      Developing robust backend systems<br/>
+      Optimizing application performance
+    </p>
+  </div>
 </div>
 
 <br />
 
-<!-- Divider -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>
 
 <!-- About Section -->
 <div align="center">
-  <h2 style="color: #00d4ff; margin: 30px 0;">About Me</h2>
-  <p style="color: #8f9499; max-width: 600px; margin: 0 auto; line-height: 1.8;">
-    I'm a full-stack developer passionate about building clean, efficient solutions. I focus on writing maintainable code and delivering high-performance applications. Every project is approached with precision and attention to detail.
+  <h2 style="color: #27F4B0; margin: 40px 0 30px; font-size: 32px; font-weight: 700; letter-spacing: 1px;">About Me</h2>
+  <p style="color: #C0C0C0; max-width: 700px; margin: 0 auto; line-height: 1.9; font-size: 16px;">
+    I'm a full-stack developer with a passion for building clean, efficient, and scalable solutions. I specialize in modern web technologies and data-driven applications. Every project is approached with precision, performance, and a commitment to excellence. I believe in continuous learning and pushing boundaries to deliver exceptional results.
   </p>
 </div>
 
 <br />
 
-<!-- Divider -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>
 
 <!-- Connect Section -->
 <div align="center">
-  <h2 style="color: #00d4ff; margin: 30px 0;">Let's Connect</h2>
-  <p style="color: #8f9499; margin: 10px 0;">
+  <h2 style="color: #27F4B0; margin: 40px 0 30px; font-size: 32px; font-weight: 700; letter-spacing: 1px;">Let's Connect</h2>
+  <p style="color: #C0C0C0; margin: 15px 0; font-size: 16px;">
     Open to collaboration and exploring innovative projects.
   </p>
-  <p style="margin: 15px 0;">
-    <a href="https://github.com/SujayAgarwal28" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0a0e27" alt="GitHub" />
+  <p style="margin: 25px 0;">
+    <a href="https://github.com/SujayAgarwal28" target="_blank" style="text-decoration: none; margin: 0 10px;">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=27F4B0&labelColor=1a1a1a" alt="GitHub" />
     </a>
-    <a href="https://www.linkedin.com/in/sujay-agarwal28/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0e27" alt="LinkedIn" />
+    <a href="https://www.linkedin.com/in/sujay-agarwal28/" target="_blank" style="text-decoration: none; margin: 0 10px;">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" alt="LinkedIn" />
     </a>
   </p>
 </div>
 
 <br />
 
-<!-- Divider -->
+<!-- Footer -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=100&color=27F4B0&section=footer&text=Performance%20Driven&fontSize=40&fontColor=FFFFFF&textBg=false&rotate=-5" />
 </div>
 
-<!-- Footer -->
-<div align="center" style="margin-top: 40px;">
-  <p style="color: #666666; font-size: 12px;">© 2026 Sujay Agarwal</p>
+<div align="center" style="margin-top: 30px;">
+  <p style="color: #666666; font-size: 12px;">© 2026 Sujay Agarwal | Mercedes AMG Petronas Theme</p>
 </div>
+
