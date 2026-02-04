@@ -11,7 +11,7 @@ Think about it. Success isn't just about the machine. It's about the mind. ⚡
 </div>
 
 <div align="center" style="margin: 30px 0;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=27F4B0&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Sujay;Full+Stack+Developer;Software+Engineer;Data+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sujay;Full+Stack+Developer;Software+Engineer;Data+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center" style="margin: 30px 0;">
@@ -31,35 +31,11 @@ Think about it. Success isn't just about the machine. It's about the mind. ⚡
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>
 
-<!-- Performance Metrics Section with Animated Cards -->
-<div align="center">
-  <h2 style="color: #27F4B0; margin: 40px 0 30px; font-size: 32px; font-weight: 700; letter-spacing: 1px;">Performance Metrics</h2>
-  
-  <div style="display: inline-block; border: 3px solid #27F4B0; border-radius: 15px; padding: 30px; background: linear-gradient(135deg, rgba(39, 244, 176, 0.1) 0%, rgba(39, 244, 176, 0.02) 100%); margin: 20px auto; box-shadow: 0 8px 32px rgba(39, 244, 176, 0.15);">
-    <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 40px; min-width: 450px;">
-      <div style="text-align: center; padding: 20px;">
-        <p style="color: #27F4B0; font-size: 36px; font-weight: 900; margin: 0;">30+</p>
-        <p style="color: #C0C0C0; font-size: 14px; margin: 10px 0 0; font-weight: 500; letter-spacing: 1px;">PROJECTS</p>
-      </div>
-      <div style="text-align: center; padding: 20px; border-left: 2px solid #27F4B0; border-right: 2px solid #27F4B0;">
-        <p style="color: #27F4B0; font-size: 36px; font-weight: 900; margin: 0;">500+</p>
-        <p style="color: #C0C0C0; font-size: 14px; margin: 10px 0 0; font-weight: 500; letter-spacing: 1px;">COMMITS</p>
-      </div>
-      <div style="text-align: center; padding: 20px;">
-        <p style="color: #27F4B0; font-size: 36px; font-weight: 900; margin: 0;">100%</p>
-        <p style="color: #C0C0C0; font-size: 14px; margin: 10px 0 0; font-weight: 500; letter-spacing: 1px;">COMMITMENT</p>
-      </div>
-    </div>
-  </div>
-</div>
-
-<br />
-
 <!-- Achievements Section -->
 <div align="center">
   <h2 style="color: #27F4B0; margin: 40px 0 30px; font-size: 32px; font-weight: 700; letter-spacing: 1px;">Achievements</h2>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=SujayAgarwal28&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sujayagarwal28&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies" />
 </div>
 
 <br />
@@ -84,7 +60,7 @@ Think about it. Success isn't just about the machine. It's about the mind. ⚡
   
   <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujayAgarwal28&layout=compact&theme=dark&hide_border=false&bg_color=1a1a1a&title_color=27F4B0&text_color=C0C0C0&border_color=27F4B0" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujayagarwal28&layout=compact&theme=dark&hide_border=false&bg_color=1a1a1a&title_color=27F4B0&text_color=C0C0C0&border_color=27F4B0" alt="Top Languages" />
 </div>
 
 <br />
@@ -93,20 +69,7 @@ Think about it. Success isn't just about the machine. It's about the mind. ⚡
 <div align="center">
   <h2 style="color: #27F4B0; margin: 40px 0 30px; font-size: 32px; font-weight: 700; letter-spacing: 1px;">GitHub Statistics</h2>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=SujayAgarwal28&show_icons=true&theme=dark&bg_color=1a1a1a&title_color=27F4B0&text_color=C0C0C0&icon_color=27F4B0&border_color=27F4B0&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  
-  <br/><br/>
-  
-  <table style="margin: 20px auto; border-collapse: collapse; border: 3px solid #27F4B0; border-radius: 10px; overflow: hidden; box-shadow: 0 8px 32px rgba(39, 244, 176, 0.15);">
-    <tr style="background: linear-gradient(90deg, rgba(39, 244, 176, 0.2) 0%, transparent 100%); border-bottom: 2px solid #27F4B0;">
-      <td style="padding: 18px 30px; color: #27F4B0; font-weight: 700; text-align: center; border-right: 2px solid #27F4B0; letter-spacing: 1px; font-size: 13px;">REPOSITORIES</td>
-      <td style="padding: 18px 30px; color: #FFFFFF; text-align: center; border-right: 2px solid #27F4B0; font-weight: 600; font-size: 18px;">30+</td>
-      <td style="padding: 18px 30px; color: #27F4B0; font-weight: 700; text-align: center; border-right: 2px solid #27F4B0; letter-spacing: 1px; font-size: 13px;">COMMITS</td>
-      <td style="padding: 18px 30px; color: #FFFFFF; text-align: center; border-right: 2px solid #27F4B0; font-weight: 600; font-size: 18px;">500+</td>
-      <td style="padding: 18px 30px; color: #27F4B0; font-weight: 700; text-align: center; border-right: 2px solid #27F4B0; letter-spacing: 1px; font-size: 13px;">LANGUAGES</td>
-      <td style="padding: 18px 30px; color: #FFFFFF; text-align: center; font-weight: 600; font-size: 18px;">7</td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=sujayagarwal28&show_icons=true&theme=dark&bg_color=1a1a1a&title_color=27F4B0&text_color=C0C0C0&icon_color=27F4B0&border_color=27F4B0&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <br />
@@ -119,7 +82,7 @@ Think about it. Success isn't just about the machine. It's about the mind. ⚡
 <div align="center">
   <h2 style="color: #27F4B0; margin: 40px 0 30px; font-size: 32px; font-weight: 700; letter-spacing: 1px;">Contribution Activity</h2>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SujayAgarwal28&bg_color=1a1a1a&color=27F4B0&line=ffffff&point=27F4B0&area=true&area_color=27F4B0&title_color=27F4B0&custom_title=Commitment%20to%20Excellence" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujayagarwal28&bg_color=1a1a1a&color=27F4B0&line=ffffff&point=27F4B0&area=true&area_color=27F4B0&title_color=27F4B0&custom_title=Commitment%20to%20Excellence" alt="Activity Graph" />
 </div>
 
 <br />
@@ -128,7 +91,7 @@ Think about it. Success isn't just about the machine. It's about the mind. ⚡
 <div align="center">
   <h2 style="color: #27F4B0; margin: 40px 0 30px; font-size: 32px; font-weight: 700; letter-spacing: 1px;">Contribution Streak</h2>
   
-  <img src="https://streak-stats.demolab.com?user=SujayAgarwal28&theme=dark&background=1a1a1a&currStreakNum=27F4B0&fire=27F4B0&ring=27F4B0&sideNums=FFFFFF&sideLabels=C0C0C0&dates=888888&border=27F4B0" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=sujayagarwal28&theme=dark&background=1a1a1a&currStreakNum=27F4B0&fire=27F4B0&ring=27F4B0&sideNums=FFFFFF&sideLabels=C0C0C0&dates=888888&border=27F4B0" alt="GitHub Streak" />
 </div>
 
 <br />
