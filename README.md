@@ -5,29 +5,16 @@ Easter Egg - A legendary voice:
 Think about it. Success isn't just about the machine. It's about the mind. ⚡
 -->
 
-<style>
-  @keyframes glow {
-    0%, 100% { box-shadow: 0 0 5px #27F4B0; }
-    50% { box-shadow: 0 0 20px #27F4B0; }
-  }
-  @keyframes float {
-    0%, 100% { transform: translateY(0px); }
-    50% { transform: translateY(-10px); }
-  }
-</style>
-
 <!-- Header Section with Mercedes AMG Petronas Theme -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=27F4B0&section=header&text=Hi%20there&fontSize=70&fontColor=FFFFFF&fontAlignY=40&animation=toss&rotate=-5" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=27F4B0&section=header" />
 </div>
 
 <div align="center" style="margin: 30px 0;">
-  <h1 style="color: #27F4B0; margin: 20px 0; font-weight: 900; font-size: 50px; letter-spacing: 2px;">
-    I'm <span style="color: #FFFFFF; text-shadow: 0 0 20px rgba(39, 244, 176, 0.3);">Sujay</span>
-  </h1>
-  <p style="font-size: 18px; color: #C0C0C0; margin: 15px 0; font-weight: 500;">
-    Full Stack Developer | Software Engineer | Data Enthusiast
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=27F4B0&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Sujay;Full+Stack+Developer;Software+Engineer;Data+Enthusiast" alt="Typing SVG" />
+</div>
+
+<div align="center" style="margin: 30px 0;">
   <p style="font-size: 14px; color: #888888; margin: 5px 0; letter-spacing: 1px;">
     Building scalable solutions with attention to detail and performance.
   </p>
@@ -72,7 +59,7 @@ Think about it. Success isn't just about the machine. It's about the mind. ⚡
 <div align="center">
   <h2 style="color: #27F4B0; margin: 40px 0 30px; font-size: 32px; font-weight: 700; letter-spacing: 1px;">Achievements</h2>
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=SujayAgarwal28&theme=dark&column=3&margin-w=15&margin-h=15&no-frame=false&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+  <img src="https://github-profile-trophy.vercel.app/?username=SujayAgarwal28&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies" />
 </div>
 
 <br />
@@ -87,13 +74,17 @@ Think about it. Success isn't just about the machine. It's about the mind. ⚡
   
   <div style="margin: 20px 0;">
     <p style="color: #C0C0C0; font-weight: 600; margin: 15px 0 10px; letter-spacing: 1px;">LANGUAGES</p>
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,sql,r" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,sql,r&theme=dark" alt="Languages" />
   </div>
   
   <div style="margin: 30px 0;">
     <p style="color: #C0C0C0; font-weight: 600; margin: 15px 0 10px; letter-spacing: 1px;">FRAMEWORKS & TOOLS</p>
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgresql,docker,git,linux" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgresql,docker,git,linux&theme=dark" alt="Tools" />
   </div>
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujayAgarwal28&layout=compact&theme=dark&hide_border=false&bg_color=1a1a1a&title_color=27F4B0&text_color=C0C0C0&border_color=27F4B0" alt="Top Languages" />
 </div>
 
 <br />
@@ -102,7 +93,11 @@ Think about it. Success isn't just about the machine. It's about the mind. ⚡
 <div align="center">
   <h2 style="color: #27F4B0; margin: 40px 0 30px; font-size: 32px; font-weight: 700; letter-spacing: 1px;">GitHub Statistics</h2>
   
-  <table style="margin: 0 auto; border-collapse: collapse; border: 3px solid #27F4B0; border-radius: 10px; overflow: hidden; box-shadow: 0 8px 32px rgba(39, 244, 176, 0.15);">
+  <img src="https://github-readme-stats.vercel.app/api?username=SujayAgarwal28&show_icons=true&theme=dark&bg_color=1a1a1a&title_color=27F4B0&text_color=C0C0C0&icon_color=27F4B0&border_color=27F4B0&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  
+  <br/><br/>
+  
+  <table style="margin: 20px auto; border-collapse: collapse; border: 3px solid #27F4B0; border-radius: 10px; overflow: hidden; box-shadow: 0 8px 32px rgba(39, 244, 176, 0.15);">
     <tr style="background: linear-gradient(90deg, rgba(39, 244, 176, 0.2) 0%, transparent 100%); border-bottom: 2px solid #27F4B0;">
       <td style="padding: 18px 30px; color: #27F4B0; font-weight: 700; text-align: center; border-right: 2px solid #27F4B0; letter-spacing: 1px; font-size: 13px;">REPOSITORIES</td>
       <td style="padding: 18px 30px; color: #FFFFFF; text-align: center; border-right: 2px solid #27F4B0; font-weight: 600; font-size: 18px;">30+</td>
@@ -124,7 +119,7 @@ Think about it. Success isn't just about the machine. It's about the mind. ⚡
 <div align="center">
   <h2 style="color: #27F4B0; margin: 40px 0 30px; font-size: 32px; font-weight: 700; letter-spacing: 1px;">Contribution Activity</h2>
   
-  [![SujayAgarwal28's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SujayAgarwal28&theme=dark&bg_color=1a1a1a&color=27F4B0&line=ffffff&point=27F4B0&area_color=27F4B0&title_color=27F4B0&custom_title=Commitment%20to%20Excellence)](https://github.com/SujayAgarwal28)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SujayAgarwal28&bg_color=1a1a1a&color=27F4B0&line=ffffff&point=27F4B0&area=true&area_color=27F4B0&title_color=27F4B0&custom_title=Commitment%20to%20Excellence" alt="Activity Graph" />
 </div>
 
 <br />
@@ -133,7 +128,7 @@ Think about it. Success isn't just about the machine. It's about the mind. ⚡
 <div align="center">
   <h2 style="color: #27F4B0; margin: 40px 0 30px; font-size: 32px; font-weight: 700; letter-spacing: 1px;">Contribution Streak</h2>
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=SujayAgarwal28&theme=dark&background=1a1a1a&currStreakNum=27F4B0&fire=27F4B0&ring=27F4B0&sideNums=FFFFFF&sideLabels=C0C0C0&dates=888888&border=27F4B0)](https://git.io/streak-stats)
+  <img src="https://streak-stats.demolab.com?user=SujayAgarwal28&theme=dark&background=1a1a1a&currStreakNum=27F4B0&fire=27F4B0&ring=27F4B0&sideNums=FFFFFF&sideLabels=C0C0C0&dates=888888&border=27F4B0" alt="GitHub Streak" />
 </div>
 
 <br />
@@ -196,10 +191,10 @@ Think about it. Success isn't just about the machine. It's about the mind. ⚡
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=100&color=27F4B0&section=footer&text=Performance%20Driven&fontSize=40&fontColor=FFFFFF&textBg=false&rotate=-5" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=27F4B0&section=footer" />
 </div>
 
-<div align="center" style="margin-top: 30px;">
-  <p style="color: #666666; font-size: 12px;">© 2026 Sujay Agarwal | Mercedes AMG Petronas Theme</p>
+<div align="center" style="margin-top: 20px;">
+  <p style="color: #666666; font-size: 12px;">© 2026 Sujay Agarwal</p>
 </div>
 
