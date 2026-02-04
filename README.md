@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SujayAgarwal28&theme=dark&background=000000&border=000000&ring=6b7280&fire=9aa4ad&currStreakLabel=9aa4ad" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujayagarwal28&theme=dark&background=000000&border=000000&ring=6b7280&fire=9aa4ad&currStreakLabel=9aa4ad" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujayAgarwal28&layout=compact&theme=dark&bg_color=000000&text_color=9aa4ad&border_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujayagarwal28&layout=compact&theme=dark&bg_color=000000&text_color=9aa4ad&border_color=000000" />
 </p>
 
 <p align="center">
